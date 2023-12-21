@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+
+.bg-main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.image-container {
+  text-align: center;
+  margin-top: 130px;
+}
+.image-container {
+  text-align: center;
+  margin-top: 60px;
+}
+.cart-img {
+  width: 40%;
+}
+@media (min-width: 768px) {
+  .image-container {
+    text-align: center;
+    margin-top: 130px;
+  }
+  .cart-img {
+    width: 10%;
+  }
+}
